@@ -5,7 +5,7 @@ This file documents what was used and explains why some assets are **not** inclu
 in this public repository.
 
 The licenses of the paid Unity Asset Store packs below do **not** permit
-redistribution of their files — including modified or derived versions. To respect
+redistribution of their files, including modified or derived versions. To respect
 those terms, those assets and any art derived from them have been removed from this
 repository. The compiled game (where assets are baked into the build, which the
 Asset Store EULA permits) is available to download and play on itch.io:
@@ -29,16 +29,16 @@ particle pack's textures) have also been removed, since derivatives of these ass
 cannot be redistributed either.
 
 As a result, opening this project in the Unity editor will show missing references
-on some prefabs and scenes. This is expected — the complete experience is the
+on some prefabs and scenes. This is expected; the complete experience is the
 itch.io build.
 
 ## Included in this repository (under their own licenses)
 
 | Asset | Author / Source | License |
 | --- | --- | --- |
-| UI Samples | Unity Technologies — https://assetstore.unity.com/packages/essentials/ui-samples-25468 | Free Unity Asset Store package. Includes a background image created by NASA (public domain) and the Jupiter font by Isurus Labs (public domain). |
-| DOTween | Demigiant — http://dotween.demigiant.com | Free animation library, redistributable as part of a project. |
-| Music & sound effects | Pixabay — https://pixabay.com/music/ and https://pixabay.com/sound-effects/ | Pixabay Content License. |
+| UI Samples | Unity Technologies, https://assetstore.unity.com/packages/essentials/ui-samples-25468 | Free Unity Asset Store package. Includes a background image created by NASA (public domain) and the Jupiter font by Isurus Labs (public domain). |
+| DOTween | Demigiant, http://dotween.demigiant.com | Free animation library, redistributable as part of a project. |
+| Music & sound effects | Pixabay, https://pixabay.com/music/ and https://pixabay.com/sound-effects/ | Pixabay Content License. |
 | Space-junk artwork | Original work by the author | Covered by this project's source license. |
 
 If you are a rights holder and believe something here should be handled differently,
