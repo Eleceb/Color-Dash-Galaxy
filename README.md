@@ -8,6 +8,10 @@ Built in Unity 2019.4 (C#, Universal Render Pipeline) as my final project for th
 >
 > This repository contains the **source code and original project files**. Some of the art, audio and effects used during development came from third-party Asset Store packs that cannot be redistributed, so they are not included here (see [THIRD_PARTY_ASSETS.md](THIRD_PARTY_ASSETS.md)). The downloadable itch.io build is the way to play the game with all assets in place.
 
+## Motivation
+
+I've always enjoyed top-down shooters from playing them at the arcade as a kid, so for my final project I wanted to build one myself. My aim was an arcade game that's easy to pick up but hard to master, with high replayability — and to make it stand out by layering a color-matching mechanic on top of the classic shoot-'em-up loop, creating a challenge I hadn't seen combined this way before. I also kept the scope tight on purpose: every feature had to be learnable and enjoyable within a roughly three-minute session.
+
 ## Gameplay
 
 You pilot a spaceship viewed from above in a field of space junk and hostile ships. Dodge, shoot, and constantly re-colour your ship to stay alive.
@@ -77,8 +81,17 @@ Assets/
 
 ## Development notes
 
-- ~22 weeks from concept to final build.
-- Two rounds of user testing (10 testers each) drove balance and UX changes — for example: faster player movement and bullets, single-hit basic enemies, randomised enemy fire angles, separate music/SFX volume sliders, a gameplay timer, a transparency cue when overlapping same-colour enemies, and a randomised boss colour layout each run.
+This project took around **22 weeks** from concept to final build. Along the way I learned how much good planning matters, and how to take an abstract idea all the way to a finished game — turning design concepts into code, tuning the audio-visual feel, and fixing bugs as they came up.
+
+I ran **two rounds of user testing (10 testers each)**, and their feedback shaped a lot of the final game, for example:
+- faster player movement and bullets, and single-hit basic enemies, to lower early frustration;
+- randomised enemy fire angles so encounters feel less repetitive;
+- separate music and SFX volume sliders;
+- a gameplay timer so players can anticipate the boss;
+- a transparency cue when the ship overlaps a same-colour enemy;
+- a randomised boss colour layout each run, to keep the fight fresh.
+
+If I were to keep developing it, I'd want to grow it beyond the core arcade audience — sharing gameplay clips to build a small community and experimenting with new modes and events.
 
 ## License
 
