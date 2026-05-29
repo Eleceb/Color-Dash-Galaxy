@@ -8,7 +8,7 @@ The licenses of the paid Unity Asset Store packs below do **not** permit
 redistribution of their files — including modified or derived versions. To respect
 those terms, those assets and any art derived from them have been removed from this
 repository. The compiled game (where assets are baked into the build, which the
-Asset Store EULA permits) is available to play on itch.io:
+Asset Store EULA permits) is available to download and play on itch.io:
 
 > [eleceb.itch.io/color-dash-galaxy](https://eleceb.itch.io/color-dash-galaxy)
 

@@ -4,9 +4,9 @@ A top-down arcade space shooter that fuses **bullet hell** with a **color-matchi
 
 Built in Unity 2019.4 (C#, Universal Render Pipeline) as my final project for the BSc Computer Science programme (CM3070) at the University of London.
 
-> **▶ Play it:** [eleceb.itch.io/color-dash-galaxy](https://eleceb.itch.io/color-dash-galaxy)
+> **▶ Download & play:** [eleceb.itch.io/color-dash-galaxy](https://eleceb.itch.io/color-dash-galaxy) — download the Windows build, unzip, and run `Color Dash Galaxy.exe`.
 >
-> This repository contains the **source code and original project files**. Some of the art, audio and effects used during development came from third-party Asset Store packs that cannot be redistributed, so they are not included here (see [THIRD_PARTY_ASSETS.md](THIRD_PARTY_ASSETS.md)). The itch.io build is the way to play the game with all assets in place.
+> This repository contains the **source code and original project files**. Some of the art, audio and effects used during development came from third-party Asset Store packs that cannot be redistributed, so they are not included here (see [THIRD_PARTY_ASSETS.md](THIRD_PARTY_ASSETS.md)). The downloadable itch.io build is the way to play the game with all assets in place.
 
 ## Gameplay
 
