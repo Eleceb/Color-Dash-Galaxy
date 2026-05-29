@@ -63,7 +63,7 @@ The ship is driven with `Rigidbody2D` forces, so it carries inertia in both move
 Assets/
 ├── Scripts/                 Game logic (C#)
 │   ├── LevelManager.cs       Per-difficulty spawn parameters + spawn coroutine
-│   ├── AudioManager.cs
+│   ├── AudioManager.cs       Music and SFX playback
 │   ├── Player spaceship/     SpaceshipController, BulletManager, CloseDodgeDetector
 │   ├── Enemy objects/        SpaceJunkManager, EnemySpaceshipManager, BossManager, IndividualBossPart
 │   ├── UI/                   Menus, button handling, in-game HUD/timer
@@ -73,8 +73,7 @@ Assets/
 ├── Shader/                  Damage-flash & grayscale shaders, URP pipeline assets
 ├── Arts/                    Animations, original space-junk art, Unity UI Samples
 ├── Audio/                   Music and sound effects
-├── Plugins/                 DOTween
-└── Resources/, Physics Material/
+└── Physics Material/        Frictionless boundary material
 ```
 
 `LevelManager.cs` holds the spawn parameters for each difficulty in a dictionary (junk timing, spawn periods, enemy/boss speed, fire rate, boss health), and a `GameDifficulty` enum the enemy scripts read to pick the right values.

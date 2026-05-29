@@ -37,7 +37,6 @@ itch.io build.
 | Asset | Author / Source | License |
 | --- | --- | --- |
 | UI Samples | Unity Technologies, https://assetstore.unity.com/packages/essentials/ui-samples-25468 | Free Unity Asset Store package. Includes a background image created by NASA (public domain) and the Jupiter font by Isurus Labs (public domain). |
-| DOTween | Demigiant, http://dotween.demigiant.com | Free animation library, redistributable as part of a project. |
 | Music & sound effects | Pixabay, https://pixabay.com/music/ and https://pixabay.com/sound-effects/ | Pixabay Content License. |
 | Space-junk artwork | Original work by the author | Covered by this project's source license. |
 
